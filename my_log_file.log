@@ -1,0 +1,150 @@
+2024-06-27 14:56:14,594 - mylogger - INFO - New Execution---------------
+2024-06-27 14:56:14,613 - mylogger - INFO - Data Loaded
+2024-06-27 14:56:14,614 - mylogger - INFO - Data Processed
+2024-06-27 14:56:14,614 - mylogger - INFO - Train Test Split
+2024-06-27 14:56:14,614 - mylogger - INFO - Experiment Started Successfully
+2024-06-27 14:56:15,136 - mylogger - INFO - Model Name : LightGBM
+2024-06-27 14:56:15,827 - mylogger - INFO - Model Fitted
+2024-06-27 14:56:15,830 - mylogger - INFO - Forecast Generated
+2024-06-27 14:56:15,831 - mylogger - INFO - Error Calculated
+2024-06-27 14:56:16,121 - mylogger - INFO - Plot Generated
+2024-06-27 14:56:16,287 - mylogger - INFO - Experiment logged
+2024-06-27 14:56:16,295 - mylogger - INFO - Experiment Started Successfully
+2024-06-27 14:56:16,312 - mylogger - INFO - Model Name : LightGBM
+2024-06-27 14:56:16,475 - mylogger - INFO - Model Fitted
+2024-06-27 14:56:16,477 - mylogger - INFO - Forecast Generated
+2024-06-27 14:56:16,478 - mylogger - INFO - Error Calculated
+2024-06-27 14:56:16,813 - mylogger - INFO - Plot Generated
+2024-06-27 14:56:16,857 - mylogger - WARNING - Poor WMAPE : 0.2778840018843304
+2024-06-27 14:56:16,904 - mylogger - INFO - Experiment logged
+2024-06-27 14:58:37,906 - mylogger - INFO - New Execution---------------
+2024-06-27 14:58:37,918 - mylogger - INFO - Data Loaded
+2024-06-27 14:58:37,919 - mylogger - INFO - Data Processed
+2024-06-27 14:58:37,920 - mylogger - INFO - Train Test Split
+2024-06-27 14:58:37,920 - mylogger - INFO - Experiment Started Successfully
+2024-06-27 14:58:38,495 - mylogger - INFO - Model Name : LightGBM
+2024-06-27 14:58:39,619 - mylogger - INFO - Model Fitted
+2024-06-27 14:58:39,621 - mylogger - INFO - Forecast Generated
+2024-06-27 14:58:39,622 - mylogger - INFO - Error Calculated
+2024-06-27 14:58:39,984 - mylogger - INFO - Plot Generated
+2024-06-27 14:58:40,134 - mylogger - INFO - Experiment logged
+2024-06-27 14:58:40,144 - mylogger - INFO - Experiment Started Successfully
+2024-06-27 14:58:40,154 - mylogger - INFO - Model Name : LightGBM
+2024-06-27 14:58:40,681 - mylogger - INFO - Model Fitted
+2024-06-27 14:58:40,683 - mylogger - INFO - Forecast Generated
+2024-06-27 14:58:40,683 - mylogger - INFO - Error Calculated
+2024-06-27 14:58:41,046 - mylogger - INFO - Plot Generated
+2024-06-27 14:58:41,127 - mylogger - WARNING - Poor WMAPE : 0.2778840018843304
+2024-06-27 14:58:41,170 - mylogger - INFO - Experiment logged
+2024-06-27 14:58:41,177 - mylogger - INFO - Experiment Started Successfully
+2024-06-27 14:58:41,212 - mylogger - INFO - Model Name : AutoARIMA
+2024-06-27 14:59:03,899 - mylogger - INFO - Model Fitted
+2024-06-27 14:59:06,113 - mylogger - INFO - Forecast Generated
+2024-06-27 14:59:06,114 - mylogger - INFO - Error Calculated
+2024-06-27 14:59:06,400 - mylogger - INFO - Plot Generated
+2024-06-27 14:59:06,461 - mylogger - INFO - Experiment logged
+2024-06-27 14:59:06,468 - mylogger - INFO - Experiment Started Successfully
+2024-06-27 14:59:06,478 - mylogger - INFO - Model Name : AutoARIMA
+2024-06-27 15:00:04,192 - mylogger - INFO - Model Fitted
+2024-06-27 15:00:04,209 - mylogger - INFO - Forecast Generated
+2024-06-27 15:00:04,210 - mylogger - INFO - Error Calculated
+2024-06-27 15:00:04,628 - mylogger - INFO - Plot Generated
+2024-06-27 15:00:04,705 - mylogger - INFO - Experiment logged
+2024-06-27 15:00:04,712 - mylogger - INFO - Experiment Started Successfully
+2024-06-27 15:00:04,737 - mylogger - INFO - Model Name : AutoARIMA
+2024-06-27 15:00:20,626 - mylogger - INFO - Model Fitted
+2024-06-27 15:00:20,633 - mylogger - INFO - Forecast Generated
+2024-06-27 15:00:20,633 - mylogger - INFO - Error Calculated
+2024-06-27 15:00:20,830 - mylogger - INFO - Plot Generated
+2024-06-27 15:00:20,853 - mylogger - INFO - Experiment logged
+2024-06-27 15:00:20,857 - mylogger - INFO - Experiment Started Successfully
+2024-06-27 15:00:20,862 - mylogger - INFO - Model Name : AutoARIMA
+2024-06-27 15:02:08,414 - mylogger - INFO - Model Fitted
+2024-06-27 15:02:08,465 - mylogger - INFO - Forecast Generated
+2024-06-27 15:02:08,466 - mylogger - INFO - Error Calculated
+2024-06-27 15:02:08,978 - mylogger - INFO - Plot Generated
+2024-06-27 15:02:09,032 - mylogger - INFO - Experiment logged
+2024-06-27 15:02:09,048 - mylogger - INFO - Experiment Started Successfully
+2024-06-27 15:02:09,097 - mylogger - INFO - Model Name : NBEATS
+2024-06-27 15:02:27,760 - mylogger - INFO - Model Fitted
+2024-06-27 15:02:27,951 - mylogger - INFO - Forecast Generated
+2024-06-27 15:02:27,955 - mylogger - INFO - Error Calculated
+2024-06-27 15:02:28,212 - mylogger - INFO - Plot Generated
+2024-06-27 15:02:28,498 - mylogger - INFO - Experiment logged
+2024-06-27 15:02:28,514 - mylogger - INFO - Experiment Started Successfully
+2024-06-27 15:02:28,526 - mylogger - INFO - Model Name : NBEATS
+2024-06-27 15:03:17,687 - mylogger - INFO - Model Fitted
+2024-06-27 15:03:17,774 - mylogger - INFO - Forecast Generated
+2024-06-27 15:03:17,775 - mylogger - INFO - Error Calculated
+2024-06-27 15:03:18,155 - mylogger - INFO - Plot Generated
+2024-06-27 15:03:18,448 - mylogger - INFO - Experiment logged
+2024-06-27 15:03:18,457 - mylogger - INFO - Experiment Started Successfully
+2024-06-27 15:03:18,473 - mylogger - INFO - Model Name : NBEATS
+2024-06-27 15:04:01,433 - mylogger - INFO - Model Fitted
+2024-06-27 15:04:01,501 - mylogger - INFO - Forecast Generated
+2024-06-27 15:04:01,502 - mylogger - INFO - Error Calculated
+2024-06-27 15:04:01,803 - mylogger - INFO - Plot Generated
+2024-06-27 15:04:02,048 - mylogger - INFO - Experiment logged
+2024-06-27 15:04:02,075 - mylogger - INFO - Experiment Started Successfully
+2024-06-27 15:04:02,088 - mylogger - INFO - Model Name : NBEATS
+2024-06-27 15:04:13,468 - mylogger - INFO - Model Fitted
+2024-06-27 15:04:13,564 - mylogger - INFO - Forecast Generated
+2024-06-27 15:04:13,564 - mylogger - INFO - Error Calculated
+2024-06-27 15:04:14,013 - mylogger - INFO - Plot Generated
+2024-06-27 15:04:14,402 - mylogger - INFO - Experiment logged
+2024-06-27 15:04:14,422 - mylogger - INFO - Experiment Started Successfully
+2024-06-27 15:04:14,449 - mylogger - INFO - Model Name : NBEATS
+2024-06-27 15:04:50,847 - mylogger - INFO - Model Fitted
+2024-06-27 15:04:51,096 - mylogger - INFO - Forecast Generated
+2024-06-27 15:04:51,101 - mylogger - INFO - Error Calculated
+2024-06-27 15:04:51,468 - mylogger - INFO - Plot Generated
+2024-06-27 15:04:51,864 - mylogger - INFO - Experiment logged
+2024-06-27 15:04:51,877 - mylogger - INFO - Experiment Started Successfully
+2024-06-27 15:04:51,885 - mylogger - INFO - Model Name : NBEATS
+2024-06-27 15:05:32,401 - mylogger - INFO - Model Fitted
+2024-06-27 15:05:32,546 - mylogger - INFO - Forecast Generated
+2024-06-27 15:05:32,547 - mylogger - INFO - Error Calculated
+2024-06-27 15:05:32,883 - mylogger - INFO - Plot Generated
+2024-06-27 15:05:33,263 - mylogger - INFO - Experiment logged
+2024-06-27 15:05:33,271 - mylogger - INFO - Experiment Started Successfully
+2024-06-27 15:05:33,285 - mylogger - INFO - Model Name : NBEATS
+2024-06-27 15:05:47,716 - mylogger - INFO - Model Fitted
+2024-06-27 15:05:47,873 - mylogger - INFO - Forecast Generated
+2024-06-27 15:05:47,873 - mylogger - INFO - Error Calculated
+2024-06-27 15:05:48,209 - mylogger - INFO - Plot Generated
+2024-06-27 15:05:48,574 - mylogger - INFO - Experiment logged
+2024-06-27 15:05:48,586 - mylogger - INFO - Experiment Started Successfully
+2024-06-27 15:05:48,605 - mylogger - INFO - Model Name : NBEATS
+2024-06-27 15:06:14,403 - mylogger - INFO - Model Fitted
+2024-06-27 15:06:14,455 - mylogger - INFO - Forecast Generated
+2024-06-27 15:06:14,455 - mylogger - INFO - Error Calculated
+2024-06-27 15:06:14,689 - mylogger - INFO - Plot Generated
+2024-06-27 15:06:14,855 - mylogger - INFO - Experiment logged
+2024-06-27 15:06:14,860 - mylogger - INFO - Experiment Started Successfully
+2024-06-27 15:06:14,866 - mylogger - INFO - Model Name : NBEATS
+2024-06-27 15:06:38,756 - mylogger - INFO - Model Fitted
+2024-06-27 15:06:38,800 - mylogger - INFO - Forecast Generated
+2024-06-27 15:06:38,800 - mylogger - INFO - Error Calculated
+2024-06-27 15:06:39,027 - mylogger - INFO - Plot Generated
+2024-06-27 15:06:39,297 - mylogger - INFO - Experiment logged
+2024-06-27 15:06:39,302 - mylogger - INFO - Experiment Started Successfully
+2024-06-27 15:06:39,308 - mylogger - INFO - Model Name : NBEATS
+2024-06-27 15:06:50,086 - mylogger - INFO - Model Fitted
+2024-06-27 15:06:50,212 - mylogger - INFO - Forecast Generated
+2024-06-27 15:06:50,213 - mylogger - INFO - Error Calculated
+2024-06-27 15:06:50,501 - mylogger - INFO - Plot Generated
+2024-06-27 15:06:50,803 - mylogger - INFO - Experiment logged
+2024-06-27 15:06:50,810 - mylogger - INFO - Experiment Started Successfully
+2024-06-27 15:06:50,820 - mylogger - INFO - Model Name : NBEATS
+2024-06-27 15:07:30,242 - mylogger - INFO - Model Fitted
+2024-06-27 15:07:30,396 - mylogger - INFO - Forecast Generated
+2024-06-27 15:07:30,396 - mylogger - INFO - Error Calculated
+2024-06-27 15:07:30,873 - mylogger - INFO - Plot Generated
+2024-06-27 15:07:31,319 - mylogger - INFO - Experiment logged
+2024-06-27 15:07:31,330 - mylogger - INFO - Experiment Started Successfully
+2024-06-27 15:07:31,359 - mylogger - INFO - Model Name : NBEATS
+2024-06-27 15:08:04,909 - mylogger - INFO - Model Fitted
+2024-06-27 15:08:04,963 - mylogger - INFO - Forecast Generated
+2024-06-27 15:08:04,964 - mylogger - INFO - Error Calculated
+2024-06-27 15:08:05,238 - mylogger - INFO - Plot Generated
+2024-06-27 15:08:05,491 - mylogger - INFO - Experiment logged
